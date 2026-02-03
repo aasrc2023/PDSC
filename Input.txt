@@ -1,0 +1,73 @@
+#=======================================================================
+# This is a input file for seting up simluation condistons of DSMC.
+#=======================================================================
+
+
+# Setup flow dimension (2D or 3D) and mesh informantion.
+Dimension                       = 3
+Node_Number                     = 74894
+Local_Cell_Number               = 3870
+Total_Cell_Number               = 371346
+Inlet_Face_Number               = 1828
+Wall_Face_Number                = 49748
+Wall_Type_Number                = 3
+
+
+# Setup simulation sampling frequency, timestep (=Sampling_Frequency*Output_Frequency*Sampling_Time), 
+# and total timestep (=Sampling_Frequency*Output_Frequency*Total_Timestep).
+Sampling_Frequency              = 2
+Output_Frequency                = 10
+Sampling_Time                   = 500
+Total_Timestep                  = 3000
+
+
+# Setup timestep ratio, particle weighting ratio, and maximum number of particles.
+Timestep_Ratio                  = 0.1
+Timestep                        = 0.
+Weighting_Ratio                 = 0.00001
+Weighting                       = 0.
+Maximum_Particle_Number         = 5000000
+Transfer_Particle_Number        = 500000
+
+
+# Setup initial flow condition. 
+X_Velocity                      = 2799
+Y_Velocity                      = 0.
+Z_Velocity                      = 0.
+Number_Density                  = 1.1898E19
+Temperature                     = 194
+
+
+# Setup species number, group number and to specify species (gas) name (ex: Argon etc).
+Species_Number                  = 2
+Species_Group_Number            = 2
+#Species_Name                   = Argon
+#Species_Name                   = Hydrogen
+Species_Name                    = Nitrogen
+#Species_Name                   = Air
+#Species_Name                   = H2O
+#Species_Name                   = CO2
+#Species_Name                   = Species2
+Species_Name                    = Oxygen
+#Species_Name                   = NitricOxide
+#Species_Name                   = Vibration
+#Species_Name                   = AtomicNitrogen
+#Species_Name                   = Nitrogen
+#Species_Name                   = AtomicOxygen
+
+# Select the function for DSMC program as TAS, DDD, VTS etc. 0: close the function, 1: open the function.
+Variable_Timestep_Scheme        = 1
+Subcell_Model                   = 1
+Dynamic_Domain_Decompisition    = 0
+Vibrational_Model               = 2
+Simulation_Stage                = 1
+
+
+# To check convergence (steady state). 0: close the function, 1: open the function.
+Check_Convergence               = 0
+Particle_Number_Check           = 1.E-6
+Speed_Check                     = 1.E-6
+Temperature_Check               = 1.E-6
+
+
+

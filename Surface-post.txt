@@ -1,0 +1,18 @@
+#=======================================================================
+# This is a input file for post-processing surface properties.
+#=======================================================================
+
+Density_Free_Stream             = 5.5824E-7
+Velocity_Free_Stream            = 2799
+Mass_Species                    = 4.81E-26
+Output_Wall_Number              = 1
+#Output_Wall_No                 = -21
+Output_Wall_No                  = -22
+#Output_Wall_No                  = -23
+#Output_Wall_No                 = -24
+Sort_Name                       = X-Direction
+#Sort_Name                      = Y-Direction
+#Sort_Name                      = Z-Direction
+Sort_Name                      = 3D
+#Sort_Name                      = Angle
+ 

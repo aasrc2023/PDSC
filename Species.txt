@@ -1,0 +1,286 @@
+#=============================================================================================
+# This is a database for species information.
+#=============================================================================================
+
+# Species_Name                          : Species's Name
+#========================================================
+# Fraction                              : 
+# Group_No                              :
+# Diameter                              :
+# Reference_Temperature                 :
+# Viscosity_Index                       :
+# VSS_Parameter                         :
+# Mass                                  :
+# Rotational_Degrees_of_Freedom         :
+# Rotational_Model                      :
+# Rotational_Relaxation_Number          :
+# Vibrational_Mode                      :
+# Vibrational_Model                     :
+# Vibrational_Degrees_of_Freedom        :
+# Vibrational_Constant_1                :
+# Vibrational_Constant_2                :
+# Vibrational_Characteristic_Temperature:
+# Vibrational_Dissociation_Temperature  :
+#========================================================
+
+
+Species_Name                            = Nitrogen
+#========================================================
+Fraction                                = 0.7844
+Group_No                                = 0
+Diameter                                = 4.11E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.74
+VSS_Parameter                           = 1.
+Mass                                    = 4.65E-26
+Rotational_Degrees_of_Freedom           = 2.
+Rotational_Model                        = 2.
+Rotational_Relaxation_Number            = 5.
+Rotational_Relaxation_Number            = 5.
+Vibrational_Mode                        = 1.
+Vibrational_Model                       = 3.
+Vibrational_Degrees_of_Freedom          = 2.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 220.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 220.
+Vibrational_Characteristic_Temperature  = 3371.
+Vibrational_Dissociation_Temperature    = 113500.
+#========================================================
+
+
+Species_Name                            = Air
+#========================================================
+Fraction                                = 1.
+Group_No                                = 0
+Diameter                                = 4.19E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.77
+VSS_Parameter                           = 1.
+Mass                                    = 4.81E-26
+Rotational_Degrees_of_Freedom           = 2.
+Rotational_Model                        = 2
+Rotational_Relaxation_Number            = 5.
+Vibrational_Mode                        = 0
+Vibrational_Model                       = 0
+Vibrational_Degrees_of_Freedom          = 0.
+Vibrational_Constant_1                  = 0.
+Vibrational_Constant_2                  = 0.
+Vibrational_Characteristic_Temperature  = 0.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = H2O
+#========================================================
+Fraction                                = 0.7
+Group_No                                = 0
+Diameter                                = 4.82E-10
+Reference_Temperature                   = 300.
+Viscosity_Index                         = 0.923
+VSS_Parameter                           = 0.968
+Mass                                    = 2.99E-26
+Rotational_Degrees_of_Freedom           = 3.
+Rotational_Model                        = 1
+Rotational_Relaxation_Number            = 3.
+Rotational_Relaxation_Number            = 3.
+Vibrational_Mode                        = 0
+Vibrational_Model                       = 0
+Vibrational_Degrees_of_Freedom          = 0.
+Vibrational_Constant_1                  = 0.
+Vibrational_Constant_2                  = 0.
+Vibrational_Characteristic_Temperature  = 0.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = CO2
+#========================================================
+Fraction                                = 0.3
+Group_No                                = 1
+Diameter                                = 5.54E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.93
+VSS_Parameter                           = 1.61
+Mass                                    = 7.31E-26
+Rotational_Degrees_of_Freedom           = 2.
+Rotational_Model                        = 2
+Rotational_Relaxation_Number            = 8.
+Rotational_Relaxation_Number            = 8.
+Vibrational_Mode                        = 0
+Vibrational_Model                       = 0
+Vibrational_Degrees_of_Freedom          = 0.
+Vibrational_Constant_1                  = 0.
+Vibrational_Constant_2                  = 0.
+Vibrational_Characteristic_Temperature  = 0.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = Species1
+#========================================================
+Fraction                                = 1.
+Group_No                                = 0
+Diameter                                = 7.98E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.5
+VSS_Parameter                           = 1.
+Mass                                    = 7.63E-25
+Rotational_Degrees_of_Freedom           = 0.
+Rotational_Model                        = 2
+Rotational_Relaxation_Number            = 5.
+Vibrational_Mode                        = 0
+Vibrational_Model                       = 0
+Vibrational_Degrees_of_Freedom          = 0.
+Vibrational_Constant_1                  = 0.
+Vibrational_Constant_2                  = 0.
+Vibrational_Characteristic_Temperature  = 0.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = Species2
+#========================================================
+Fraction                                = 0.
+Group_No                                = 1.
+Diameter                                = 3.0E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.75
+VSS_Parameter                           = 1.
+Mass                                    = 2.325E-26
+Rotational_Degrees_of_Freedom           = 0.
+Rotational_Model                        = 0.
+Rotational_Relaxation_Number            = 0.
+Vibrational_Mode                        = 0.
+Vibrational_Model                       = 0.
+Vibrational_Degrees_of_Freedom          = 0.
+Vibrational_Constant_1                  = 0.
+Vibrational_Constant_2                  = 0.
+Vibrational_Characteristic_Temperature  = 0.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = Oxygen
+#========================================================
+Fraction                                = 0.2156
+Group_No                                = 1.
+Diameter                                = 4.01E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.77
+VSS_Parameter                           = 1.
+Mass                                    = 5.312E-26
+Rotational_Degrees_of_Freedom           = 2.
+Rotational_Model                        = 2.
+Rotational_Relaxation_Number            = 5.
+Rotational_Relaxation_Number            = 5.
+Vibrational_Mode                        = 1.
+Vibrational_Model                       = 3.
+Vibrational_Degrees_of_Freedom          = 2.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 153.5
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 153.5
+Vibrational_Characteristic_Temperature  = 2256.
+Vibrational_Dissociation_Temperature    = 59500.
+#========================================================
+
+
+Species_Name                            = Vibration
+#========================================================
+Fraction                                = 1.
+Group_No                                = 1.
+Diameter                                = 3.5E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.75
+VSS_Parameter                           = 1.
+Mass                                    = 5.0E-26
+Rotational_Degrees_of_Freedom           = 2.
+Rotational_Model                        = 2.
+Rotational_Relaxation_Number            = 5.
+Vibrational_Mode                        = 1.
+Vibrational_Model                       = 2.
+Vibrational_Degrees_of_Freedom          = 1.
+Vibrational_Constant_1                  = 10.
+Vibrational_Constant_2                  = 100.
+Vibrational_Characteristic_Temperature  = 2000.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = AtomicOxygen
+#========================================================
+Fraction                                = 0.05873
+Group_No                                = 4.
+Diameter                                = 3.0E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.8
+VSS_Parameter                           = 1.
+Mass                                    = 2.656E-26
+Rotational_Degrees_of_Freedom           = 0.
+Rotational_Model                        = 0.
+Rotational_Relaxation_Number            = 0.
+Vibrational_Mode                        = 0.
+Vibrational_Model                       = 0.
+Vibrational_Degrees_of_Freedom          = 0.
+Vibrational_Constant_1                  = 0.
+Vibrational_Constant_2                  = 0.
+Vibrational_Characteristic_Temperature  = 0.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = AtomicNitrogen
+#========================================================
+Fraction                                = 0.
+Group_No                                = 3.
+Diameter                                = 3.E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.8
+VSS_Parameter                           = 1.
+Mass                                    = 2.325E-26
+Rotational_Degrees_of_Freedom           = 0.
+Rotational_Model                        = 0.
+Rotational_Relaxation_Number            = 0.
+Vibrational_Mode                        = 0.
+Vibrational_Model                       = 0.
+Vibrational_Degrees_of_Freedom          = 0.
+Vibrational_Constant_1                  = 0.
+Vibrational_Constant_2                  = 0.
+Vibrational_Characteristic_Temperature  = 0.
+Vibrational_Dissociation_Temperature    = 0.
+#========================================================
+
+
+Species_Name                            = NitricOxide
+#========================================================
+Fraction                                = 0.
+Group_No                                = 2.
+Diameter                                = 4.2E-10
+Reference_Temperature                   = 273.
+Viscosity_Index                         = 0.79
+VSS_Parameter                           = 1.
+Mass                                    = 4.98E-26
+Rotational_Degrees_of_Freedom           = 2.
+Rotational_Model                        = 2.
+Rotational_Relaxation_Number            = 5.
+Rotational_Relaxation_Number            = 5.
+Rotational_Relaxation_Number            = 5.
+Rotational_Relaxation_Number            = 5.
+Rotational_Relaxation_Number            = 5.
+Vibrational_Mode                        = 1.
+Vibrational_Model                       = 3.
+Vibrational_Degrees_of_Freedom          = 2.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 220.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 220.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 220.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 220.
+Vibrational_Constant_1                  = 50.
+Vibrational_Constant_2                  = 220.
+Vibrational_Characteristic_Temperature  = 2719.
+Vibrational_Dissociation_Temperature    = 75500.
+#========================================================

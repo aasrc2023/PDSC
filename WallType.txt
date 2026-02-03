@@ -1,0 +1,13 @@
+#   Wall_No      Type      Temp     XVel     YVel     ZVel      DiffRatio     StickingCoef       AlphaN        SigmaT       EintCoef
+#==========================================================================================================================================
+        -21         1       880.       0.       0.       0.           1.              1.            1.            1.           1.                  
+	    -22         5       1000       0.       0.       0.           1.              1.            1             1            1.  
+	    -23         5       1000       0.       0.       0.           1.              1.            1             1            1.  
+#======================================s===================================================================================================
+#==========================================================================================================================================
+# Wall_No is the number of wall since -21.
+# Type is the kind of solid wall such fully-specular (Type: 1), fully-diffusive (Type: 2), isotropic-scattering(Type: 3) or CLL-model(Type: 5)
+# Temp is the surface temperature of wall.
+# XVel is the velocity of moving wall in x-direction.
+# YVel is the velocity of moving wall in y-direction.
+# ZVel is the velocity of moving wall in z-direction.
